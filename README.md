@@ -1,4 +1,4 @@
-# fuckyducky
+# fuckyducky (compile w/ `-std=c++17`)
 
 Basically, I have the inheritance graph:
 ```
